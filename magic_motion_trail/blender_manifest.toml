@@ -1,0 +1,12 @@
+schema_version = "1.0.0"
+
+id = "magic_motion_trail"
+version = "1.0.0"
+name = "MagicMotionTrail"
+tagline = "Interactive motion trails with editable keyframe points and smooth brush"
+maintainer = "MagicMotionTrail Team"
+type = "add-on"
+
+blender_version_min = "5.0.0"
+
+[permissions]
