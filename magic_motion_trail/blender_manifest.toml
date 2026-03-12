@@ -6,7 +6,9 @@ name = "MagicMotionTrail"
 tagline = "Interactive motion trails with editable keyframe points and smooth brush"
 maintainer = "MagicMotionTrail Team"
 type = "add-on"
+license = ["SPDX:GPL-3.0-or-later"]
 
 blender_version_min = "5.0.0"
 
 [permissions]
+
